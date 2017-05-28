@@ -1,8 +1,7 @@
 ---
-site.title: Svenska Discord
-title: Countries
 layout: default
-description: Lear some common countries!
+title: Countries
+subtitle: Lear some common countries!
 ---
 
 Swedish             | English

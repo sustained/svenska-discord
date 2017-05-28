@@ -1,8 +1,7 @@
 ---
-site.title: Svenska Discord
-title: Occupations
 layout: default
-description: Learn words for occupations!
+title: Occupations
+subtitle: Learn words for occupations!
 ---
 
 Swedish             | English
