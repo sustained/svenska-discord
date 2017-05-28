@@ -5,6 +5,7 @@ subtitle: Learn words for occupations!
 ---
 
 ## Occupation Vocabulary
+
 Swedish             | English
 ------------------- | -------------------
 en lärare           | a teacher
