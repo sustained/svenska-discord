@@ -3,22 +3,24 @@ title: Countries
 layout: default
 ---
 
-* Brasilien
-* Moldavien
-* Ryssland
-* Finland
-* Mexiko
-* Kanada
-* Turkiet
-* USA
-* Tyskland
-* Kina
-* Australien
-* Österrike
-* Frankrike
-* Spanien
-* Japan
-* Bulgarien
-* Grekland
-* Estland
-* Marocko
+Swedish             | English
+------------------- | -------------------
+Brasilien           | Brazil
+Moldavien           | Moldovia
+Ryssland            | Russia
+Finland             | Finland
+Mexiko              | Mexico
+Kanada              | Canada
+Turkiet             | Turkey
+USA                 | USA
+Tyskland            | Germany
+Kina                | China
+Australien          | Australia
+Österrike           | Austria
+Frankrike           | France
+Spanien             | Spain
+Japan               | Japan
+Bulgarien           | Bulgaria
+Grekland            | Greece
+Estland             | Estonia
+Marocko             | Morocco
