@@ -1,6 +1,7 @@
 ---
 title: Countries
 layout: default
+description: Lear some common countries!
 ---
 
 Swedish             | English
