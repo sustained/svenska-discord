@@ -4,6 +4,8 @@ title: Countries
 subtitle: Lear some common countries!
 ---
 
+## Country Vocabulary
+
 Swedish             | English
 ------------------- | -------------------
 Brasilien           | Brazil
