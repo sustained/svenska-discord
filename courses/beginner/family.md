@@ -6,6 +6,7 @@ subtitle: Lear words for family members!
 
 ## Family Vocabulary
 
+
 Swedish             | English
 ------------------- | -------------------
 en mamma            | a mother
