@@ -1,5 +1,5 @@
 ---
-layout: yuno
+layout: svenska
 title: Occupations
 subtitle: Learn words for occupations!
 ---

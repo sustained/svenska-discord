@@ -1,5 +1,5 @@
 ---
-layout: yuno
+layout: svenska
 title: Family
 subtitle: Learn words for family members!
 ---

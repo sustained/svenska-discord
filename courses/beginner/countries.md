@@ -1,5 +1,5 @@
 ---
-layout: yuno
+layout: svenska
 title: Countries
 subtitle: Learn some common countries!
 ---
