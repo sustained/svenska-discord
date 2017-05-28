@@ -1,1 +1,5 @@
+url: http://sustained.github.io
+baseurl: /svenska-discord/
 theme: jekyll-theme-leap-day
+title: "Svenska Discord"
+future: true
