@@ -1,7 +1,7 @@
 ---
 layout: yuno
 title: Family
-subtitle: Lear words for family members!
+subtitle: Learn words for family members!
 ---
 
 ## Family Vocabulary

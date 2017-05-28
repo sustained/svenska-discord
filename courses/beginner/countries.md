@@ -1,7 +1,7 @@
 ---
 layout: yuno
 title: Countries
-subtitle: Lear some common countries!
+subtitle: Learn some common countries!
 ---
 
 ## Country Vocabulary
