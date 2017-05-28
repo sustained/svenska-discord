@@ -1,5 +1,5 @@
 ---
-layout: yuno
+layout: svenska
 title: Svenska Discord
 subtitle: Tips, hint, frequently asked questions, course material...
 show_downloads: false
@@ -17,7 +17,7 @@ If you'd like to contribute, create a Github account then send **sustained** a D
 {% for post in site.posts %}
 	<li>
 		<a href="{{ site.baseurl }}{% post_url post.url %}">{{ post.title }}</a>
-		
+
 		{{ post.excerpt }}
 	</li>
 {% endfor %}
