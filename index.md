@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: yuno
 title: Svenska Discord
 subtitle: Tips, hint, frequently asked questions, course material...
 show_downloads: false
@@ -20,10 +20,11 @@ If you'd like to contribute, create a Github account then send **sustained** a D
 * [Occupations](courses/beginner/occupations.html)
 
 ### Intermediate
-    * Foo
-    * Bar
+
+* Foo
+* Bar
 
 ### Advanced
 
-    * Foo
-    * Bar
+* Foo
+* Bar

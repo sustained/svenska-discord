@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: yuno
 title: Occupations
 subtitle: Learn words for occupations!
 ---

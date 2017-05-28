@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: yuno
 title: Family
 subtitle: Lear words for family members!
 ---

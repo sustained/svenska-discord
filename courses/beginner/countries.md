@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: yuno
 title: Countries
 subtitle: Lear some common countries!
 ---
