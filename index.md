@@ -1,4 +1,5 @@
 ---
+site.title: Svenska Discord
 title: Svenska Discord
 layout: default
 description: Tips, hint, frequently asked questions, course material...

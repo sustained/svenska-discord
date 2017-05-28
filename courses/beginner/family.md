@@ -1,6 +1,8 @@
 ---
+site.title: Svenska Discord
 title: Family
 layout: default
+description: Lear words for family members!
 ---
 
 Swedish             | English
