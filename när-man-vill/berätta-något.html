@@ -1,0 +1,28 @@
+---
+layout: svenska
+title: Svenska Discord
+subtitle: Tips, hint, frequently asked questions, course material...
+show_downloads: false
+---
+
+<table>
+	<colgroup>
+		<col width="50%" />
+		<col width="50%" />
+	</colgroup>
+
+	<thead>
+		<th>English</th>
+		<th>Swedish</th>
+	</thead>
+
+	<tbody>
+{% for phrase in site.data.expressing_yourself.tell_something %}
+		<tr>
+			<td markdown="span">{{ phrase.en }}</td>
+			<td markdown="span">{{ phrase.sv }}</td>
+		</tr>
+
+{% endfor %}
+	</tbody>
+</table>
