@@ -1,12 +1,12 @@
 ---
 layout: svenska
 title: Svenska Discord
-subtitle: När man vill berätta något...
+subtitle: När man vill …
 show_downloads: false
 ---
 
 {% for section in site.data.when_one_wants_to %}
-<h2>{{ section.title }}</h2>
+<h2>{{ section.name }}</h2>
 
 <table>
 	<colgroup>
@@ -20,7 +20,7 @@ show_downloads: false
 	</thead>
 
 	<tbody>
-{% for phrase in site.data.when_one_wants_to.entries %}
+{% for phrase in section.entries %}
 		<tr>
 			<td markdown="span">{{ phrase.en }}</td>
 			<td markdown="span">{{ phrase.sv }}</td>
