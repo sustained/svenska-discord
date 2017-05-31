@@ -1,5 +1,6 @@
 -
-  name: … berätta något.
+  name: … vill berätta något.
+
   entries:
     - en: Have you heard/read that …?
       sv: Har du hört/läst att …?
@@ -27,3 +28,257 @@
 
     - en: Do you remember …
       sv: Kommer du ihåg …?
+
+  name: … reagerar negativt.
+  entries:
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+
+  name: … reagerar positivt.
+  entries:
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+
+  name: … är likgiltig.
+  entries:
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+
+
+  name: … bli förvånad.
+  entries:
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+
+  name: … säger sin åsikt.
+  entries:
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+
+  name: … inte hör.
+  entries:
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+
+  name: … vill ha ett förtydligande.
+  entries:
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+
+  name: … vill veta något.
+  entries:
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+
+  name: … vill kontrollera att något är ratt/man ha förstått.
+  entries:
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+
+  name: … instämmer.
+  entries:
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+
+  name: … tycker tvärtom.
+  entries:
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
+    - en: 
+      sv: 
