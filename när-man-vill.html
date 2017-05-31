@@ -5,6 +5,9 @@ subtitle: När man vill berätta något...
 show_downloads: false
 ---
 
+{% for section in site.data.when_one_wants_to %}
+<h2>{{ section.title }}</h2>
+
 <table>
 	<colgroup>
 		<col width="50%" />
@@ -17,7 +20,7 @@ show_downloads: false
 	</thead>
 
 	<tbody>
-{% for phrase in site.data.expressing_yourself.tell_something %}
+{% for phrase in site.data.when_one_wants_to.entries %}
 		<tr>
 			<td markdown="span">{{ phrase.en }}</td>
 			<td markdown="span">{{ phrase.sv }}</td>
@@ -26,3 +29,5 @@ show_downloads: false
 {% endfor %}
 	</tbody>
 </table>
+
+{% endfor %}
