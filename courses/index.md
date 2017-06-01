@@ -7,9 +7,9 @@ show_downloads: false
 
 ## Courses / Tutoring
 
-We are planning to start running courses/tutoring sessions.
+We are planning on starting running courses/tutoring sessions, soon.
 
-We keep materials and such here.
+We will be keep materials and such here.
 
 ### Beginners
 
