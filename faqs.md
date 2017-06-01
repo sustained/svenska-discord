@@ -7,7 +7,7 @@ show_downloads: false
 
 {% for faq in site.data.faqs %}
 
-<h1>Fråga: <span style="font-size: 0.6em; line-height: 1.0em;">{{ faq.question_sv }}</span></h1>
+<h2>Fråga: <span style="font-size: 0.6em; line-height: 1.0em;">{{ faq.question_sv }}</span></h2>
 
 <p><em>({{ faq.question_en }})</em></p>
 
