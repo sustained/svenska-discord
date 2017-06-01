@@ -11,6 +11,7 @@ Welcome to the [Svenska-Discord](https://discord.gg/FUMTtWJ) website!
 
 If you'd like to contribute, create a Github account then send **sustained** a DM with your username or email address. 
 
+<!--
 ## Latest Blog Posts
 
 <ul>
@@ -22,14 +23,7 @@ If you'd like to contribute, create a Github account then send **sustained** a D
     </li>
 {% endfor %}
 </ul>
-
-## Frequently Asked Questions
-
-Answers to FAQs about the language, culture etc. can be found [here](faqs/index.html).
-
-## Grammar
-
-Important-to-know grammar concepts.
+-->
 
 ## Reading Club
 
