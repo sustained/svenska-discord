@@ -1,5 +1,7 @@
 -
-  question: Skillnaden mellan "därför att"" and "eftersom"?
+  question_en: Vad är skillnaden mellan "därför att"" och "eftersom"?
+
+  question_sv: What is the difference between "därför att" and "eftersom"?
 
   answer_sv: "
   Enligt Språkrådet:
@@ -12,63 +14,68 @@
   > 'Därför att' refers to a cause that the lisener is not aware of/does not recognise. 'Eftersom', on the oter hand, to a cause that the listener already recognises."
 
 -
-  question: Vad betyder egentligen "för att"?
+  question_en: What does "för att" actually mean?
+  question_sv: Vad betyder egentligen "för att"?
 
   answer_sv: Coming soon.
 
   answer_en: Coming soon.
 
 -
-  question: När använder man "som"" i stället för "att"?
+  question_en: When does one use "som" instead of "att"?
+
+  question_sv: När använder man "som"" i stället för "att"?
 
   answer_sv: Coming soon.
 
   answer_en: Coming soon.
 
 -
-  question: Vad betyder egentligen "för att"?
+  question_en: Different ways that "det" is translated in different situations.
+
+  question_sv: Olika sätt att "det" översätts i olika situationer.
 
   answer_sv: Coming soon.
 
   answer_en: Coming soon.
 
 -
-  question: Olika sätt att "det" översätts.
+  question_en: Difficulties with the word "om".
+
+  question_sv: Svårigheter med ordet "om".
 
   answer_sv: Coming soon.
 
   answer_en: Coming soon.
 
 -
-  question: Svårigheter med ordet "om".
+  question_en: Difficulty with how "på" is usually used.
+
+  question_sv: Svårt med hur "på" brukar användas.
 
   answer_sv: Coming soon.
 
   answer_en: Coming soon.
 
 -
-  question: Svårt med hur "på" brukar användas.
+  question_en: '"För", "till", "åt" - how does one know which to choose?'
+
+  question_sv: '"För", "till", "åt" - hur vet man vilken att välja?'
 
   answer_sv: Coming soon.
 
   answer_en: Coming soon.
 
 -
-  question: För, till, åt - hur vet man vilken att välja?
+  question_en: When/how is "faktiskt", "egentligen" and "verkligen" used?
+  question_sv: När/hur används "faktiskt", "egentligen" och "verkligen"?
 
   answer_sv: Coming soon.
 
   answer_en: Coming soon.
 
 -
-  question: När används "faktiskt", "egentligen" och "verkligen"?
-
-  answer_sv: Coming soon.
-
-  answer_en: Coming soon.
-
--
-  question: "\"Förr\", \"före\", \"förrän\", \"förut\"... hjälp mig!"
+  question_sv: '""Förr", "före", "förrän", "förut"... hjälp mig!"'
 
   answer_sv: Coming soon.
 
