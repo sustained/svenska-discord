@@ -1,0 +1,22 @@
+---
+layout: svenska
+title: Svenska Discord
+subtitle: Vanliga frågor.
+show_downloads: false
+---
+
+<h1 title="Frequently Asked Questions">Vanliga Frågor …</h1>
+
+{% for faq in site.data.faqs %}
+
+<div>
+    <h2>Question</h2>
+    <p>{{ faq.question }}</p>
+</div>
+
+<div>
+    <h3>Answer</h3>
+    {{ faq.answer }}
+</div>
+
+{% endfor %}
