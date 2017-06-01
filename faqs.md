@@ -14,10 +14,10 @@ show_downloads: false
 <br />
 
 <div>
-    <h2>Svaret</h2>
+    <h2>Svenska</h2>
     {{ faq.answer_sv | markdownify }}
 
-    <h2>Answer</h2>
+    <h2>Engelska</h2>
     {{ faq.answer_en | markdownify }}
 </div>
 
