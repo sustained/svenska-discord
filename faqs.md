@@ -5,8 +5,6 @@ subtitle: Vanliga frågor.
 show_downloads: false
 ---
 
-<hr />
-
 {% for faq in site.data.faqs %}
 
 <h1>Fråga: <span style="font-size: 0.6em; line-height: 1.0em;">{{ faq.question_sv }}</span></h1>
