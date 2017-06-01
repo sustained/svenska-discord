@@ -11,13 +11,13 @@ show_downloads: false
 
 <h1>Fråga: <span style="font-size: 0.6em; line-height: 1.0em;">{{ faq.question_sv }}</span></h1>
 
-<p>({{ faq.question_en }})</p>
+<p><em>({{ faq.question_en }})</em></p>
 
 <div style="margin-top: 20px;">
-    <h3>Svenska</h3>
+    <h2>Svenska</h2>
     {{ faq.answer_sv | markdownify }}
 
-    <h3>Engelska</h3>
+    <h2>Engelska</h2>
     {{ faq.answer_en | markdownify }}
 </div>
 
