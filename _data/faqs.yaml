@@ -6,8 +6,14 @@
 
   > 'Därför att' hänvisar till en orsak man tror att lyssnaren inte känner till. 'Eftersom', däremot, till en orsak man tror att lyssnaren redan känner till."
 
-  answer_sv: "
+  answer_en: "
   According to Språkrådet:
 
   > 'Därför att' refers to a cause that the lisener is not aware of/does not recognise. 'Eftersom', on the oter hand, to a cause that the listener already recognises."
 
+-
+  question: Blah blah blah.
+
+  answer_sv: Blah.
+
+  answer_en: Blah.
