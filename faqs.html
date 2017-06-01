@@ -11,12 +11,12 @@ show_downloads: false
 
 <div>
     <h2>Question</h2>
-    <p>{{ faq.question }}</p>
+    {{ faq.question | markdownify }}
 </div>
 
 <div>
     <h3>Answer</h3>
-    {{ faq.answer }}
+    {{ faq.answer | markdownify }}
 </div>
 
 {% endfor %}
