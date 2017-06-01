@@ -11,12 +11,12 @@ show_downloads: false
 
 {% for faq in site.data.faqs %}
 <div>
-    <h3>Question</h3>
+    <h2>Question</h2>
     {{ faq.question | markdownify }}
 </div>
 
 <div>
-    <h3>Answer</h3>
+    <h2>Answer</h2>
     {{ faq.answer | markdownify }}
 </div>
 
