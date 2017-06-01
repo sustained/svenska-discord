@@ -13,17 +13,17 @@ We run a "book club", which comprises of spreadsheets of vocabulary and an accom
 
 ## Beginners
 
-Book								| Status
------------------------------------	| -------------------------
-Tyrre den Förskräcklige				| Weekly/bi-weekly reading sessions.
+Book								| Status								| Next Session
+-----------------------------------	| -------------------------------------	| -----------
+Tyrre den Förskräcklige				| Studying introduction vocabulary.		| 1st June, late afternoon to evening time.
 
 <hr />
 
 ## Intermediate
 
-Book								| Status
------------------------------------	| -------------------------
-Liftarens guide till galaxen		| Studying introduction vocabulary.
+Book								| Status								| Next Session
+-----------------------------------	| -------------------------------------	| -----------
+Liftarens guide till galaxen		| Studying introduction vocabulary.		| N/A
 
 <hr />
 
@@ -35,3 +35,5 @@ Book								| Status
 <hr />
 
 ## Suggestions
+
+Ask for (or give yourself) the "Book Club" role and then post any suggestions in #reading-club.
