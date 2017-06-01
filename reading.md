@@ -29,9 +29,9 @@ Liftarens guide till galaxen		| Studying introduction vocabulary.		| N/A
 
 ## Advanced
 
-Book								| Status
------------------------------------	| -------------------------
-
+Book								| Status								| Next Session
+-----------------------------------	| -------------------------------------	| -----------
+N/A									| N/A									| N/A
 <hr />
 
 ## Suggestions
