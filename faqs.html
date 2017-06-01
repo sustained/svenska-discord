@@ -9,11 +9,15 @@ show_downloads: false
 
 {% for faq in site.data.faqs %}
 <div>
-    <h1>Question: <small>{{ faq.question}}</small></h1>
+    <h1>Question: <span style="font-size: 0.6em;">{{ faq.question}}</span></h1>
 </div>
 
 <div>
-    {{ faq.answer | markdownify }}
+    <h2>Svaret</h2>
+    {{ faq.answer_sv | markdownify }}
+
+    <h2>Answer</h2>
+    {{ faq.answer_en | markdownify }}
 </div>
 
 <hr />
