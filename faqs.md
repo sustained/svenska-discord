@@ -14,10 +14,10 @@ show_downloads: false
 <p><em>({{ faq.question_en }})</em></p>
 
 <div style="margin-top: 20px;">
-    <h2>Svenska</h2>
+    <h3>Svenska</h3>
     {{ faq.answer_sv | markdownify }}
 
-    <h2>Engelska</h2>
+    <h3>Engelska</h3>
     {{ faq.answer_en | markdownify }}
 </div>
 
