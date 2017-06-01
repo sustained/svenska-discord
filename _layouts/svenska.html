@@ -23,7 +23,8 @@ nav {
 			nav ul li hr {
 				background-color: black;
 				background-image: none !important;
-				height: 2px;
+				height: 2px !important;
+				margin: 5px !important;
 			}
 	</style>
 
@@ -38,7 +39,7 @@ nav {
 	<script>
 $(document).ready(function() {
 	$('nav ul li').each(function() {
-		$(this).append('<li><hr /></li>');
+		$(this).append('<hr />');
 	})
 });
 	</script>
