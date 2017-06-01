@@ -11,11 +11,9 @@ show_downloads: false
 
 <h1>Fråga: <span style="font-size: 0.6em; line-height: 1.0em;">{{ faq.question_sv }}</span></h1>
 
-<h4>{{ faq.question_en }}
+<p>({{ faq.question_en }})</p>
 
-<br />
-
-<div>
+<div style="margin-top: 20px;">
     <h3>Svenska</h3>
     {{ faq.answer_sv | markdownify }}
 
