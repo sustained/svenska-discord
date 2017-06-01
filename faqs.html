@@ -5,18 +5,16 @@ subtitle: Vanliga frågor.
 show_downloads: false
 ---
 
-<h1 title="Frequently Asked Questions">Vanliga Frågor</h1>
-
 <hr />
 
 {% for faq in site.data.faqs %}
 <div>
-    <h2>Question</h2>
-    {{ faq.question | markdownify }}
+    <h1>{{ faq.question | markdownify }}</h1>
 </div>
 
 <div>
     <h2>Answer</h2>
+    
     {{ faq.answer | markdownify }}
 </div>
 
