@@ -9,15 +9,17 @@ show_downloads: false
 
 {% for faq in site.data.faqs %}
 
-<h1>Question: <span style="font-size: 0.6em; line-height: 1.0em;">{{ faq.question}}</span></h1>
+<h1>Fråga: <span style="font-size: 0.6em; line-height: 1.0em;">{{ faq.question_sv }}</span></h1>
+
+<h4>{{ faq.question_en }}
 
 <br />
 
 <div>
-    <h2>Svenska</h2>
+    <h3>Svenska</h3>
     {{ faq.answer_sv | markdownify }}
 
-    <h2>Engelska</h2>
+    <h3>Engelska</h3>
     {{ faq.answer_en | markdownify }}
 </div>
 
