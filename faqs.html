@@ -8,7 +8,6 @@ show_downloads: false
 <h1 title="Frequently Asked Questions">Vanliga Frågor …</h1>
 
 {% for faq in site.data.faqs %}
-
 <div>
     <h2>Question</h2>
     {{ faq.question | markdownify }}
@@ -18,5 +17,7 @@ show_downloads: false
     <h3>Answer</h3>
     {{ faq.answer | markdownify }}
 </div>
+
+<hr />
 
 {% endfor %}
