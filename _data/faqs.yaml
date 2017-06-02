@@ -58,33 +58,33 @@
 
       <tbody>
         <tr>
-          <td>
+          <td markdown="block">
             - **Q.** När kommer __tåget__?
             - **A.** __Det__ kommer klockan sju.
           </td>
-          <td>
+          <td markdown="block">
             - **Q.** When will/does __the train__ come?
             - **A.** __It__ comes at seven o'clock.
           </td>
         </tr>
 
         <tr>
-          <td>
+          <td markdown="block">
             - **Q.** Kan du __spelar gitar__?
             - **A.** Ja, __det__ kan jag.
           </td>
-          <td>
+          <td markdown="block">
             - **Q.** Can you __play guitar__?
             - **A.** Yes, I can (do __that__).
           </td>
         </tr>
 
         <tr>
-          <td>
+          <td markdown="block">
             - **Q.** __När börjar mötet__?
             - **A.** __Det__ vet jag inte.
           </td>
-          <td>
+          <td markdown="block">
             - **Q.** __When does the meeting begin__?
             - **A.** I don't know (when __that__ is).
           </td>
