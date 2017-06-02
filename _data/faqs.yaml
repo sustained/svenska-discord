@@ -64,7 +64,6 @@
               <li markdown="span"><strong>A.</strong> __Det__ kommer klockan sju.</li>
             </ul>
           </td>
-
           <td>
             <ul>
               <li markdown="span"><strong>Q.</strong> When will/does __the train__ come?</li>
@@ -80,7 +79,6 @@
               <li markdown="span"><strong>A.</strong> Ja, __det__ kan jag.</li>
             </ul>
           </td>
-
           <td>
             <ul>
               <li markdown="span"><strong>Q.</strong> Can you __play guitar__?</li>
@@ -96,7 +94,6 @@
               <li markdown="span"><strong>A.</strong> __Det__ vet jag inte.</li>
             </ul>
           </td>
-
           <td>
             <ul>
               <li markdown="span"><strong>Q.</strong>  __When does the meeting begin__?</li>
@@ -111,14 +108,64 @@
 
     Det can also act as a formal subject and refer back to something th at is not yet known.
 
-    - **Q.** Vem är __det__?
-    - **A.** Det är __Agneta och Björn__.
+    <table>
+      <colgroup>
+        <col width="50%" />
+        <col width="50%" />
+      </colgroup>
 
-    - **Q.** Vad är __det__?
-    - **A.** Det är __en kanelbulle__.
+      <thead>
+        <th>Svenska</th>
+        <th>Engelska</th>
+      </thead>
 
-    - **Q.** Vad är __det__?
-    - **A.** Det är __jordgubbar__.
+      <tbody>
+        <tr>
+          <td>
+            <ul>
+              <li markdown="span"><strong>Q. Vem är __det__?</strong> </li>
+              <li markdown="span"><strong>A. Det är __Agneta och Björn__.</strong> </li>
+            </ul>
+          </td>
+          <td>
+            <ul>
+              <li markdown="span"><strong>Q.</strong> What is __that__?</li>
+              <li markdown="span"><strong>A.</strong> It is __Agneta and Björn.</li>
+            </ul>
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            <ul>
+              <li markdown="span"><strong>Q.</strong> Vad är __det__?</li>
+              <li markdown="span"><strong>A.</strong> Det är __en kanelbulle__.</li>
+            </ul>
+          </td>
+          <td>
+            <ul>
+              <li markdown="span"><strong>Q.</strong> What is __that?__</li>
+              <li markdown="span"><strong>A.</strong> It's __a cinnamon bun__.</li>
+            </ul>
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            <ul>
+              <li markdown="span"><strong>Q.</strong> Vad är __det__?</li>
+              <li markdown="span"><strong>A.</strong> Det är __jordgubbar__.</li>
+            </ul>
+          </td>
+          <td>
+            <ul>
+              <li markdown="span"><strong>Q.</strong> What's __that__?</li>
+              <li markdown="span"><strong>A.</strong> (It's) __strawberries__.</li>
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+    </table>
 
     **Important:** As you may have noticed, we use "det" no matter the gender or plurality of the noun, in such cases.
 
@@ -126,34 +173,135 @@
 
     Det can also refer to a verb phrase. That is to say that the following are equivalent.
 
-    - __Det__ är rolig att dansa.
-    - __Att dansa__ är roligt.
+    <table>
+      <colgroup>
+        <col width="50%" />
+        <col width="50%" />
+      </colgroup>
+
+      <thead>
+        <th>Svenska</th>
+        <th>Engelska</th>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>
+            <ul>
+              <li markdown="span">__Det__ är rolig att dansa.</li>
+              <li markdown="span">__Att dansa__ är roligt.</li>
+            </ul>
+          </td>
+          <td>
+            <ul>
+              <li markdown="span">__It__ is fun to dance.</li>
+              <li markdown="span">__Dancing__ / __To dance__ is fun.</li>
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+    </table>
 
     ---
 
     Det can be used to introduce something new into a sentence, much like "there" in English.
     
-    - Det är någon i trädgården.
-    - Det kommer en bil på vägen.
-    - Det finns älg i Sverige.
-    - Det sitter en fågel i trädet.
+    <table>
+      <colgroup>
+        <col width="50%" />
+        <col width="50%" />
+      </colgroup>
+
+      <thead>
+        <th>Svenska</th>
+        <th>Engelska</th>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td markdown="span">Det är __någon__ i trädgården.</td>
+          <td markdown="span">There is __someone__ in the garden.</td>
+        </tr>
+
+        <tr>
+          <td markdown="span">Det kommer __en bil__ på vägen.</td>
+          <td markdown="span">There is __a car__ coming on the road.</td>
+        </tr>
+
+        <tr>
+          <td markdown="span">Det finns __älg__ i Sverige.</td>
+          <td markdown="span">There are __moose__ in Sweden.</td>
+        </tr>
+
+        <tr>
+          <td markdown="span">Det sitter __en fågel__ i trädet.</td>
+          <td markdown="span">There is __a bird__ sitting in the tree.</td>
+        </tr>
+      </tbody>
+    </table>
 
     ---
 
     In Swedish, as in English, one uses det when referring to the weather:
 
-    - Det regnar.
-    - Det snöar.
-    - Det är kallt.
+    <table>
+      <colgroup>
+        <col width="50%" />
+        <col width="50%" />
+      </colgroup>
+
+      <thead>
+        <th>Svenska</th>
+        <th>Engelska</th>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td markdown="span">Det __regar__.</td>
+          <td markdown="span">It's __raining__.</td>
+        </tr>
+
+        <tr>
+          <td markdown="span">Det __snöar__.</td>
+          <td markdown="span">It's __snowing__.</td>
+        </tr>
+
+        <tr>
+          <td markdown="span">Det är __kallt__.</td>
+          <td markdown="span">It is __cold__.</td>
+        </tr>
+      </tbody>
+    </table>
 
     Why is this?
 
     Det doesn't *really* mean anything in such cases.
 
-    It is just that a subject is required by the grammar, in order to be able to differentiate between a question statement.
+    It is just that a subject is required by the grammar, in order to be able to differentiate between a question and a statement.
 
-    - __Det__ regnar.
-    - Regnar __det__?"
+    <table>
+      <colgroup>
+        <col width="50%" />
+        <col width="50%" />
+      </colgroup>
+
+      <thead>
+        <th>Svenska</th>
+        <th>Engelska</th>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td markdown="span">__Det__ regnar.</td>
+          <td markdown="span">__It__ is raining (statement).</td>
+        </tr>
+
+        <tr>
+          <td markdown="span">Regnar __det__?</td>
+          <td markdown="span">Is __it__ raining?</td>
+        </tr>
+      </tbody>
+    </table>
 
 -
   question_en: Difficulties with the word "om".
