@@ -60,31 +60,15 @@
         <tr>
           <td>
             <ul>
-              <li><strong>Q.</strong> När kommer __tåget__?</li>
-              <li><strong>A.</strong> __Det__ kommer klockan sju.</li>
+              <li markdown="span"><strong>Q.</strong> När kommer __tåget__?</li>
+              <li markdown="span"><strong>A.</strong> __Det__ kommer klockan sju.</li>
             </ul>
           </td>
 
           <td>
             <ul>
-              <li><strong>Q.</strong> When will/does __the train__ come?</li>
-              <li><strong>A.</strong> __It__ comes at seven o'clock.</li>
-            </ul>
-          </td>
-        </tr>
-
-        <tr>
-          <td>
-            <ul>
-              <li><strong>Q.</strong> Kan du __spelar gitar__?</li>
-              <li><strong>A.</strong> Ja, __det__ kan jag.</li>
-            </ul>
-          </td>
-
-          <td>
-            <ul>
-              <li><strong>Q.</strong> Can you __play guitar__?</li>
-              <li><strong>A.</strong> Yes, I can (do __that__).</li>
+              <li markdown="span"><strong>Q.</strong> When will/does __the train__ come?</li>
+              <li markdown="span"><strong>A.</strong> __It__ comes at seven o'clock.</li>
             </ul>
           </td>
         </tr>
@@ -92,15 +76,31 @@
         <tr>
           <td>
             <ul>
-              <li><strong>Q.</strong> __När börjar mötet__?</li>
-              <li><strong>A.</strong> __Det__ vet jag inte.</li>
+              <li markdown="span" markdown="span"><strong>Q.</strong> Kan du __spelar gitar__?</li>
+              <li markdown="span"><strong>A.</strong> Ja, __det__ kan jag.</li>
             </ul>
           </td>
 
           <td>
             <ul>
-              <li><strong>Q.</strong>  __When does the meeting begin__?</li>
-              <li><strong>A.</strong> I don't know (when __that__ is).</li>
+              <li markdown="span"><strong>Q.</strong> Can you __play guitar__?</li>
+              <li markdown="span"><strong>A.</strong> Yes, I can (do __that__).</li>
+            </ul>
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            <ul>
+              <li markdown="span"><strong>Q.</strong> __När börjar mötet__?</li>
+              <li markdown="span"><strong>A.</strong> __Det__ vet jag inte.</li>
+            </ul>
+          </td>
+
+          <td>
+            <ul>
+              <li markdown="span"><strong>Q.</strong>  __When does the meeting begin__?</li>
+              <li markdown="span"><strong>A.</strong> I don't know (when __that__ is).</li>
             </ul>
           </td>
         </tr>
