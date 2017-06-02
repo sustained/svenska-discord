@@ -3,15 +3,14 @@
 
   question_sv: Vad är skillnaden mellan "därför att" och "eftersom"?
 
-  answer_sv: "
-  *Enligt Språkrådet:*
+  answer_sv: |
+    \*Enligt Språkrådet:\*
+    \> 'Därför att' hänvisar till en orsak man tror att lyssnaren inte känner till. 'Eftersom', däremot, till en orsak man tror att lyssnaren redan känner till.
 
-  > 'Därför att' hänvisar till en orsak man tror att lyssnaren inte känner till. 'Eftersom', däremot, till en orsak man tror att lyssnaren redan känner till."
+  answer_en: |
+    \*According to Språkrådet:\*
 
-  answer_en: "
-  *According to Språkrådet:*
-
-  > 'Därför att' refers to a cause that the lisener is not aware of/does not recognise. 'Eftersom', on the oter hand, to a cause that the listener already recognises."
+    \> 'Därför att' refers to a cause that the lisener is not aware of/does not recognise. 'Eftersom', on the oter hand, to a cause that the listener already recognises.
 
 -
   question_en: What does "för att" actually mean?
@@ -35,73 +34,73 @@
 
   question_sv: Olika sätt att "det" översätts i olika situationer.
 
-  answer_sv: ""
+  answer_sv: Coming soon.
 
-  answer_en: '
-  Det has many uses/meanings. We will try to cover them all below.
+  answer_en: |
+    Det has many uses/meanings. We will try to cover them all below.
 
-  ---
+    ---
 
-  Det can refer back to a word, phrase or clause that is already __known__.
-  
-  In the following examples, the "det" is referring back to the underlined part.
-  
-  - **Q.** När kommer __tåget__?
-  - **A.** __Det__ kommer klockan sju.
+    Det can refer back to a word, phrase or clause that is already __known__.
+    
+    In the following examples, the "det" is referring back to the underlined part.
+    
+    \- **Q.** När kommer __tåget__?
+    \- **A.** __Det__ kommer klockan sju.
 
-  - **Q.** Kan du __spelar gitar__?
-  - **A.** Ja, __det__ kan jag.
+    \- **Q.** Kan du __spelar gitar__?
+    \- **A.** Ja, __det__ kan jag.
 
-  - **Q.** __När börjar mötet__?
-  - **A.** __Det__ vet jag inte.
+    \- **Q.** __När börjar mötet__?
+    \- **A.** __Det__ vet jag inte.
 
----
+    ---
 
-Det can also act as a formal subject and refer back to something th at is not yet known.
+    Det can also act as a formal subject and refer back to something th at is not yet known.
 
-  - **Q.** Vem är __det__?
-  - **A.** Det är __Agneta och Björn__.
+    \- **Q.** Vem är __det__?
+    \- **A.** Det är __Agneta och Björn__.
 
-  - **Q.** Vad är __det__?
-  - **A.** Det är __en kanelbulle__.
+    \- **Q.** Vad är __det__?
+    \- **A.** Det är __en kanelbulle__.
 
-  - **Q.** Vad är __det__?
-  - **A.** Det är __jordgubbar__.
+    \- **Q.** Vad är __det__?
+    \- **A.** Det är __jordgubbar__.
 
-  ``` Important: As you may have noticed, we use "det" no matter the gender or plurality of the noun, in such cases.```
+    \`\`\`Important: As you may have noticed, we use "det" no matter the gender or plurality of the noun, in such cases.\`\`\`
 
-  ---
+    ---
 
-Det can also refer to a verb phrase. That is to say that the following are equivalent.
+    Det can also refer to a verb phrase. That is to say that the following are equivalent.
 
-  - __Det__ är rolig att dansa.
-  - __Att dansa__ är roligt.
+    \- __Det__ är rolig att dansa.
+    \- __Att dansa__ är roligt.
 
----
+    ---
 
-Det can be used to introduce something new into a sentence, much like "there" in English.
+    Det can be used to introduce something new into a sentence, much like "there" in English.
+    
+    \- Det är någon i trädgården.
+    \- Det kommer en bil på vägen.
+    \- Det finns älg i Sverige.
+    \- Det sitter en fågel i trädet.
 
-  - Det är någon i trädgården.
-  - Det kommer en bil på vägen.
-  - Det finns älg i Sverige.
-  - Det sitter en fågel i trädet.
+    ---
 
----
+    In Swedish, as in English, one uses det when referring to the weather:
 
-In Swedish, as in English, one uses det when referring to the weather:
+    \- Det regnar.
+    \- Det snöar.
+    \- Det är kallt.
 
-  - Det regnar.
-  - Det snöar.
-  - Det är kallt.
+    Why is this?
 
-Why is this?
+    Det doesn't *really* mean anything in such cases.
 
-Det doesn't *really* mean anything in such cases.
-
-It is just that a subject is required by the grammar, in order to be able to differentiate between a question statement.
-
-  - __Det__ regnar.
-  - Regnar __det__?'
+    It is just that a subject is required by the grammar, in order to be able to differentiate between a question statement.
+    
+    \- __Det__ regnar.
+    \- Regnar __det__?"
 
 -
   question_en: Difficulties with the word "om".
