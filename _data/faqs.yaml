@@ -25,10 +25,80 @@
 
   question_sv: När använder man "som"" i stället för "att"?
 
-  answer_sv: Coming soon.
+  answer_sv: |
+    I stället för att ha två separata satser kan vi sätta ihop dem genom att använda "som" som relativa pronomen.
 
-  answer_en: Coming soon.
+      Jag har en hund. Hunden gillar köttbullar.
+      Jag har en hund __som__ gillar köttbullar.
 
+    "Som" blir subjekt alltså betyder det i sjävla verket "hunden", i det här fallet.
+
+      Jag har en hund __hunden__ (som) gillar köttbullar.
+    
+    På engelska introduceras relativa pronomen av antingen “who”, “which” eller “that”.
+    
+    På svenska däremot används bara "som" -
+    
+      1. Sten har en syster __som__ (who) bor i Malmö.
+      2. Ann leker med dockorna __som__ (which) hon fick i jullkapp.
+      3. Min cykel, __som__ (that) jag fick i jullkapp, har 21 växlar.
+    
+    Som kan även betyda "as" och användas jämföra saker.
+
+      1. Han är lika stor som jag.
+      2. Det är inte lika svårt som du tror.
+    
+    ----
+
+    Eftersom **att**, samt "som", också kan översättas som "that" brukar blandar folk ihop dem.
+
+    Den primära funktionen på **att** brukar vara infinitivmärke ("to" på engelska).
+
+      Pojken tycker om __att__ (to) *leka* med sin hund.
+      Hunden älskar __att__ (to) *springa*.
+    
+    En annan användning är som konjunktion mellan sats och bisats och det är den användningen som påverkar som-att-förvirringen.
+
+      Bengt säger __att__ (that) det är varmt ute.
+      Hon tror __att__ (that) boken är gammal.
+
+  answer_en: |
+    Instead of having two separate clauses, we can connect them by using “som” as a relative pronoun.
+
+      I have a dog. The dog likes meatballs.
+      I have a dog who likes meatballs.
+    
+    "Who" (som) becomes a subject thus actually means "the dog", in this case -
+
+      I have a dog __the dog (who)__ likes meatballs.
+    
+    In English, we do this by using either "who", "which" or "that".
+    
+    Whereas in Swedish, we simply use "som".
+    
+      1. Sten has a sister __who__ (som) lives in Malmö.
+      2. Ann plays with the dolls __which__ (som) she got as a Christmas present.
+      3. My bike, __that__ (som) I got for Christmas, has 21 gears.
+
+    Som can also take the meaning of "as" and be used to compare things.
+
+      1. He is just as big __as__ (som) me.
+      2. It is not as difficult __as__ (some) you think.
+    
+    ----
+
+    People usually confuse **att** and "som" due to them both sometimes translating to "that".
+
+    The primary function of **att** is usually as an infinitive marker ("to" in English).
+
+      The boy likes __to__ *play* with his dog.
+      The dog loves __to__ *run*.
+    
+    Another usage of **att** is as a conjunction between a clause and a subclause and it is this which seems to cause the som-att-confusion.
+
+      Bengt says __that__ it is warm outside.
+      He thinks __that__ the book is old.
+    
 -
   question_en: Different ways that "det" is translated in different situations.
 
